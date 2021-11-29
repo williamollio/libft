@@ -7,10 +7,10 @@ Take the time to expand your libft throughout the year. But always, make sure to
 
 Links:
 
-Subject PDF: https://github.com/williamollio/blob/master/subject/libft.pdf
+Subject PDF: https://github.com/williamollio/libft/blob/main/subject/libft.pdf
 
 # Grade
-[![wollio's 42Project Score](https://badge42.herokuapp.com/api/project/wollio/Libft)](https://github.com/williamollio/badge42)
+[![wollio's 42Project Score](https://badge42.herokuapp.com/api/project/wollio/Libft)](https://github.com/williamollio)
 
 # Clone
 Open a terminal and run following command:
